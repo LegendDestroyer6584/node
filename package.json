@@ -1,0 +1,22 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LegendDestroyer6584/node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LegendDestroyer6584/node/issues"
+  },
+  "homepage": "https://github.com/LegendDestroyer6584/node#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
